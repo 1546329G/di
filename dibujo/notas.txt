@@ -1,0 +1,7 @@
+dibujos/
+│
+├── index.html
+├── modelo/
+│   ├── model.json
+│   └── group1-shard1of1.bin
+├── script.js   ← Aquí pondrás la lógica de predicción
